@@ -1,0 +1,91 @@
+{
+    "name": "Redarkened",
+    "description": "Redesigned Discord Dark theme for those who cant access it",
+    "authors": [
+        {
+            "name": "Miko",
+            "id": "499287211381096458"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMRARY": [
+            "#1c1d26"
+        ],
+        "HEADER_SECONDARY": [
+            "#b6b6b6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b6b8d4"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#b6b8d4"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#dcddde"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6c757d"
+        ],
+        "BACKGROUND_PRIMRARY": [
+            "#1c1d26"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#262732"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#262732"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#31323f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#262732"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1c1d26"
+        ],
+        "CHANNEL_ICON": [
+            "#b6b8d4"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b6b8d4"
+        ],
+        "TEXT_LINK": [
+            "#7289DA"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#7289DA"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1c1d26"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#6c757d"
+        ],
+        "CHAT_BACKGROUND":[
+            "#1c1d26"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#0c0c0c"
+        ]
+    },
+    "rawColors": {
+        "BRAND_300": "#dcddde",
+        "BRAND_360": "#7289DA",
+        "BRAND_500": "#7289DA",
+        "BRAND_560": "#6c757d",
+        "RED_400": "#7289DA",
+        "YELLOW_300": "#7289DA",
+        "PRIMARY_100": "#dcddde",
+        "PRIMARY_200": "#dcddde",
+        "PRIMARY_460": "#1c1d26",
+        "PRIMARY_560": "#1c1d26",
+        "PRIMARY_600": "#1c1d26",
+        "PRIMARY_630": "#1c1d26",
+        "PRIMARY_700": "#1c1d26",
+        "PRIMARY_800": "#1c1d26",
+        "BRAND_NEW_500_ALPHA_20": "#007bff33",
+        "PRIMARY_DARK_700_ALPHA_60": "#1c1d26"
+    }
+}
