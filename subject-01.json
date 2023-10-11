@@ -1,0 +1,95 @@
+{
+    "name": "redarkened v3",
+    "version": "0.1",
+    "description": "dark but better",
+    "authors": [
+      {
+        "name": "Saito",
+        "id": "499287211381096458"
+      }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMRARY": [
+            "#1c1d26"
+        ],
+        "HEADER_SECONDARY": [
+            "#b6b6b6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b6b8d4"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#b6b8d4"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#dcddde"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6c757d"
+        ],
+        "BACKGROUND_PRIMRARY": [
+            "#1c1d26"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#262732"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#262732"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#31323f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#262732"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1c1d26"
+        ],
+        "CHANNEL_ICON": [
+            "#b6b8d4"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b6b8d4"
+        ],
+        "TEXT_LINK": [
+            "#6577e6"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#6577e6"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1c1d26"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#6c757d"
+        ],
+        "CHAT_BACKGROUND":[
+            "#1c1d26"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#0c0c0c"
+        ]
+    },
+    "rawColors": {
+      "BRAND_260": "#dcddde",
+      "BRAND_300": "#dcddde",
+      "BRAND_360": "#6577e6",
+      "BRAND_500": "#6577e6",
+      "BRAND_560": "#6c757d",
+      "GREEN_360": "#6577e6",
+      "PRIMARY_100": "#dcddde",
+      "PRIMARY_200": "#dcddde",
+      "PRIMARY_230": "#dcddde",
+      "PRIMARY_460": "#262732",
+      "PRIMARY_560": "#262732",
+      "PRIMARY_600": "#262732",
+      "PRIMARY_630": "#1c1d26",
+      "PRIMARY_660": "#1c1d26",
+      "PRIMARY_700": "#1c1d26",
+      "PRIMARY_800": "#1c1d26",
+      "RED_400": "#6577e6",
+      "WHITE_500": "#ffffff",
+      "YELLOW_300": "#6577e6"
+    },
+    "spec": 2
+  }
