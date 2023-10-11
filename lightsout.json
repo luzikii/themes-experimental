@@ -1,0 +1,55 @@
+{
+    "name": "redarkened v3",
+    "version": "0.1",
+    "description": "dark but better",
+    "authors": [
+      {
+        "name": "Saito",
+        "id": "499287211381096458"
+      }
+    ],
+    "semanticColors": {
+      "INTERACTIVE_ACTIVE": ["#dcddde"],
+      "INTERACTIVE_NORMAL": ["#b6b8d4"],
+      "INTERACTIVE_MUTED": ["#6c757d"],
+      "BACKGROUND_ACCENT": ["#1e2529"],
+      "BACKGROUND_MENTIONED": ["#bde6fb10"],
+      "BACKGROUND_MESSAGE_HOVER": ["transparent"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#1c1d26"],
+      "BACKGROUND_MOBILE_SECONDARY": ["#262732"],
+      "BACKGROUND_PRIMARY": ["#1c1d26"],
+      "BACKGROUND_SECONDARY": ["#262732"],
+      "BACKGROUND_SECONDARY_ALT": ["#262732"],
+      "BACKGROUND_MODIFIER_ACCENT": ["transparent"],
+      "BACKGROUND_MODIFIER_ACTIVE": ["#1c1d26"],
+      "BACKGROUND_MODIFIER_HOVER": ["#262732"],
+      "BACKGROUND_MODIFIER_SELECTED": ["#1c1d26"],
+      "BACKGROUND_TERTIARY": ["#31323f"],
+      "CHANNEL_ICON": ["#b6b8d4"],
+      "CHAT_BACKGROUND": ["#1c1d26"],
+      "TEXT_DANGER": ["#f1f1f1"],
+      "TEXT_NORMAL": ["#f1f1f1"]
+    },
+    "rawColors": {
+      "BRAND_260": "#dcddde",
+      "BRAND_300": "#dcddde",
+      "BRAND_360": "#6577e6",
+      "BRAND_500": "#6577e6",
+      "BRAND_560": "#6c757d",
+      "GREEN_360": "#6577e6",
+      "PRIMARY_100": "#dcddde",
+      "PRIMARY_200": "#dcddde",
+      "PRIMARY_230": "#dcddde",
+      "PRIMARY_460": "#262732",
+      "PRIMARY_560": "#262732",
+      "PRIMARY_600": "#262732",
+      "PRIMARY_630": "#1c1d26",
+      "PRIMARY_660": "#262732",
+      "PRIMARY_700": "#262732",
+      "PRIMARY_800": "#262732",
+      "RED_400": "#6577e6",
+      "WHITE_500": "#ffffff",
+      "YELLOW_300": "#6577e6"
+    },
+    "spec": 2
+  }
