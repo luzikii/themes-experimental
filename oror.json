@@ -1,0 +1,192 @@
+{
+    "name": "OrthinanosPink",
+    "description": "Orthinanos",
+    "authors": [
+      {
+        "name": "Ria"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#141414"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#f78bb1a2"
+      ],   
+      "BACKGROUND_MENTIONED_HOVER": [   
+      "#f78bb1"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [     
+      "#f7949414"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#9399b2"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#1C2120"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#1C2120"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#1c2120"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#181825"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#181825"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#141414"
+      ],
+      "CHANNEL_ICON": [
+      "#f78bb1"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#c8c8c8"
+      ],
+      "CHAT_BACKGROUND": [
+      "#141414"
+      ],
+      "HEADER_PRIMARY": [
+      "#f1f1f1"
+      ],
+      "HEADER_SECONDARY": [
+      "#c8c8c8"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#f78bb1"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#dcddde"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#ffb9e9"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#ba638e"
+      ],
+      "MENTION_BACKGROUND": [
+      "#f78bb1a1"
+      ],
+      "MENTION_FOREGROUND": [
+      "#f78bb1"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#141414"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#141414"
+      ],
+ "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#141414"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#1c2120"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+      "#f38ba8"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+      "#f38ba8"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+      "#f38ba8"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+      "#f38ba8"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#9399b2"
+      ],
+      "TEXT_LINK": [
+      "#f78bb1"
+      ],
+      "TEXT_MUTED": [
+      "#b1b1b1"
+      ],
+      "TEXT_NORMAL": [
+      "#FBFBFB"
+      ],
+      "TEXT_PRIMARY": [
+      "#b1b1b1"
+      ],
+      "TEXT_SECONDARY": [
+      "#FBFBFB"
+      ]
+  },
+    "rawColors": {
+      "BRAND_260": "#f5e0dc",
+      "BRAND_360": "#c96f8f",
+      "BRAND_500": "#c96f8f",
+      "GREEN_360": "#f78bb1",
+      "PRIMARY_100": "#FFFFFF",
+      "PRIMARY_300": "#B6B6B6",
+      "PRIMARY_360": "#C8C8C8",
+      "PRIMARY_400": "#d48aaf",
+      "PRIMARY_460": "#181825",
+      "PRIMARY_500": "#c96f8f",
+      "BRAND_560": "#c96f8f",
+      "PRIMARY_600": "#141414",
+      "PRIMARY_645": "#16171a",
+      "PRIMARY_630": "#16171a",
+      "PRIMARY_660": "#141414",
+      "PRIMARY_700": "#101010",
+      "PRIMARY_800": "#1C2120",
+      "PLUM_1": "#cdd6f4",
+      "PLUM_10": "#bac2de",
+      "PLUM_11": "#313244",
+      "PLUM_13": "#bac2de",
+      "PLUM_15": "#45475a",
+      "PLUM_16": "#141414",
+      "PLUM_17": "#141414",
+      "PLUM_18": "#313244",
+      "PLUM_19": "#313244",
+      "PLUM_20": "#141414",
+      "PLUM_21": "#89b4fa50",
+      "PLUM_22": "#313244",
+      "PLUM_24": "#313244",
+      "PLUM_25": "#181825",
+      "PLUM_3": "#cdd6f4",
+      "PLUM_4": "#89b4fa50",
+      "PLUM_6": "#cba6f7",
+      "PLUM_9": "#cdd6f4",
+      "RED_400": "#f78bb1",
+      "WHITE_500": "#FBFBFB",
+      "YELLOW_300": "#f78bb1"
+    },
+	   "background": {
+        "blur": 1,
+        "url": "https://cdn.discordapp.com/attachments/644828337881088003/1125224088391127060/orthinanosbg.png",
+        "alpha": 1
+        },
+    "plus":{
+       "version":"0",
+       "icons":{
+          "ic_new_pins":"#f38ba8",
+          "StatusStreaming": "#cba6f7",
+          "StatusMobileOnline": "#a6e3a1",
+          "StatusIdle": "#f9e2af",
+          "StatusDND": "#f38ba8",
+          "StatusOffline": "#9399b2",
+          "StatusOnline": "#a6e3a1"
+ }
+},
+    "spec": 2
+}
