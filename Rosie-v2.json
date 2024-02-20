@@ -1,0 +1,207 @@
+{
+    "name": "Rosie v2",
+    "description": "Welcome, Unkindled One",
+    "authors": [
+      {
+        "name": "Ellie",
+        "id": "499287211381096458"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#95a7fd"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#1b1a25"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#24232b"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#24232b"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#24232b"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#24232b"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#24232b"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#24232b"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#24232b"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#24232b"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#212028"
+      ],
+      "BORDER_FAINT": [
+      "#24232b"
+      ],
+      "BORDER_STRONG": [
+      "#24232b"
+      ],      
+      "BORDER_SUBTLE": [
+      "#24232b"
+      ],
+      "CHANNEL_ICON": [
+      "#b6b6b6"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#b6b6b6"
+      ],
+      "CHAT_BACKGROUND": [
+      "#24232b"
+      ],
+      "HEADER_PRIMARY": [
+      "#72eaf8"
+      ],
+      "HEADER_SECONDARY": [
+      "#72eaf8"
+      ],
+      "HOME_BACKGROUND": [
+      "#24232b"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#95a7fd"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#dcddde"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#697eab"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#fefffe"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#24232b"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#120707"
+      ],
+      "TEXT_DANGER": [
+      "#95a7fd"
+      ],
+      "TEXT_LINK": [
+      "#95a7fd"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#24232b"
+      ],
+      "CARD_SECONDARY_BG": [
+      "#24232b"
+      ]
+    },
+    "rawColors": {
+      "BRAND_260": "#95a7fd",
+      "BRAND_360": "#24232b",
+      "BRAND_500": "#95a7fd",
+      "GREEN_100": "#72eaf8",
+      "GREEN_130": "#95a7fd",
+      "GREEN_160": "#95a7fd",
+      "GREEN_200": "#95a7fd",
+      "GREEN_230": "#95a7fd",
+      "GREEN_260": "#95a7fd",
+      "GREEN_300": "#95a7fd",
+      "GREEN_330": "#95a7fd",
+      "GREEN_345": "#95a7fd",
+      "GREEN_360": "#95a7fd",
+      "GREEN_400": "#95a7fd",
+      "GREEN_430": "#95a7fd",
+      "GREEN_460": "#95a7fd",
+      "GREEN_500": "#95a7fd",
+      "GREEN_530": "#95a7fd",
+      "GREEN_560": "#95a7fd",
+      "GREEN_600": "#95a7fd",
+      "GREEN_630": "#95a7fd",
+      "GREEN_660": "#95a7fd",
+      "GREEN_700": "#95a7fd",
+      "GREEN_730": "#95a7fd",
+      "GREEN_760": "#95a7fd",
+      "GREEN_800": "#95a7fd",
+      "GREEN_830": "#95a7fd",
+      "GREEN_860": "#95a7fd",
+      "GREEN_900": "#95a7fd",
+      "GUILD_BOOSTING_PINK": "#95a7fd",   
+      "GUILD_BOOSTING_PURPLE": "#95a7fd",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#95a7fd",
+      "PRIMARY_100": "#610017",
+      "PRIMARY_230": "#24232b",
+      "PRIMARY_300": "#72eaf8",
+      "PRIMARY_360": "#72eaf8",    
+      "PRIMARY_400": "#72eaf8",
+      "PRIMARY_460": "#24232b",
+      "PRIMARY_500": "#24232b",
+      "PRIMARY_600": "#24232b",
+      "PRIMARY_630": "#24232b",
+      "PRIMARY_660": "#24232b",
+      "PRIMARY_700": "#24232b",
+      "PRIMARY_800": "#24232b",
+      "RED_260": "#95a7fd",
+      "RED_300": "#95a7fd",
+      "RED_330": "#95a7fd",
+      "RED_345": "#95a7fd",
+      "RED_360": "#95a7fd",
+      "RED_400": "#95a7fd",
+      "RED_430": "#95a7fd",
+      "RED_460": "#95a7fd",
+      "RED_500": "#95a7fd",
+      "RED_530": "#95a7fd",
+      "RED_560": "#95a7fd",
+      "RED_600": "#95a7fd",
+      "RED_630": "#95a7fd",
+      "RED_660": "#95a7fd",
+      "RED_700": "#95a7fd",
+      "YELLOW_100": "#24232b",
+      "YELLOW_130": "#24232b",
+      "YELLOW_160": "#24232b",
+      "YELLOW_200": "#24232b",
+      "YELLOW_230": "#24232b",
+      "YELLOW_260": "#24232b",
+      "YELLOW_300": "#24232b4d",
+      "YELLOW_330": "#24232b",
+      "YELLOW_345": "#24232b",
+      "YELLOW_360": "#24232b",
+      "YELLOW_400": "#24232b",
+      "YELLOW_430": "#24232b",
+      "YELLOW_460": "#24232b",
+      "YELLOW_500": "#24232b",
+      "YELLOW_530": "#24232b",
+      "YELLOW_560": "#24232b",
+      "YELLOW_600": "#24232b",
+      "YELLOW_630": "#24232b",
+      "YELLOW_660": "#24232b",
+      "YELLOW_700": "#24232b",
+      "YELLOW_730": "#24232b",
+      "YELLOW_760": "#24232b",
+      "YELLOW_800": "#24232b",
+      "YELLOW_830": "#24232b",
+      "YELLOW_860": "#24232b",
+      "YELLOW_900": "#24232b",
+    "PLUM_13": "#212028",
+        "PLUM_15": "#24232b",
+        "PLUM_16": "#24232b",
+        "PLUM_17": "#24232b",
+        "PLUM_18": "#24232b",
+        "PLUM_19": "#24232b",
+        "PLUM_20": "#24232b",
+        "PLUM_22": "#24232b",
+        "PLUM_23": "#24232b"
+   },
+        "background": {
+        "blur": 0.1,
+        "url": "https://cdn.discordapp.com/attachments/792901931341053983/1032192391857328158/Untitled1329_20221019032333.png",
+        "alpha": 1.0
+    },
+    "spec": 2
+}
